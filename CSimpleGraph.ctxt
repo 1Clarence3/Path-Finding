@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CSimpleGraph
+comment1.params=
+comment1.target=CGraphNode\ getRootNode()
+comment2.params=x\ y\ data
+comment2.target=void\ createNode(double,\ double,\ java.lang.String)
+comment3.params=start
+comment3.target=void\ createNeighbors(CGraphNode)
+comment4.params=start\ end
+comment4.target=double\ getPathCost(CGraphNode,\ CGraphNode)
+comment5.params=
+comment5.target=void\ instantiateCost()
+comment6.params=a\ b
+comment6.target=void\ connectNodes(CGraphNode,\ CGraphNode)
+comment7.params=a\ b
+comment7.target=double\ pathCostFinder(CGraphNode,\ CGraphNode)
+comment8.params=x\ y
+comment8.target=CGraphNode\ searchNodeXY(double,\ double)
+comment9.params=x1\ y1\ x2\ y2
+comment9.target=double\ distance(double,\ double,\ double,\ double)
+numComments=10

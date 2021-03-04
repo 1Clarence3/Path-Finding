@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PathFindingSearch
+comment1.params=source\ goal\ graph\ draw\ layers\ work
+comment1.target=boolean\ ucs(CGraphNode,\ CGraphNode,\ CSimpleGraph,\ boolean,\ int,\ int)
+comment2.params=i\ j
+comment2.target=int\ compare(CGraphNode,\ CGraphNode)
+comment3.params=source\ goal\ graph\ layers
+comment3.target=boolean\ gs(CGraphNode,\ CGraphNode,\ CSimpleGraph,\ int)
+comment4.params=i\ j
+comment4.target=int\ compare(CGraphNode,\ CGraphNode)
+comment5.params=source\ goal\ graph\ layers
+comment5.target=boolean\ as(CGraphNode,\ CGraphNode,\ CSimpleGraph,\ int)
+comment6.params=i\ j
+comment6.target=int\ compare(CGraphNode,\ CGraphNode)
+comment7.params=a\ b
+comment7.target=int\ compare(CGraphNode,\ CGraphNode)
+comment8.params=target
+comment8.target=java.util.List\ printPath(CGraphNode)
+numComments=9

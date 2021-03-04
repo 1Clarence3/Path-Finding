@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CGraphNode
+comment1.params=
+comment1.target=CGraphNode()
+comment2.params=node
+comment2.target=CGraphNode(CGraphNode)
+comment3.params=x1\ y1\ name
+comment3.target=CGraphNode(double,\ double,\ java.lang.String)
+numComments=4

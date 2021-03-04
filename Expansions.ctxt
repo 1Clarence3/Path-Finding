@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Expansions
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Expansions\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=targetNode\ costVal
+comment1.target=Expansions(CGraphNode,\ double)
+numComments=2
